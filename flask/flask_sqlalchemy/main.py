@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-"""
-@File    : main.py
-@Time    : 2019/12/13 15:51
-@Author  : Yin Zheng
-@Email_private   : yinzheng1993@126.com
-@Email_company   : yinzheng@mskj.com
-@Software: PyCharm
-"""
+
 from flask import Flask
 from flask import render_template
 from flask import request
