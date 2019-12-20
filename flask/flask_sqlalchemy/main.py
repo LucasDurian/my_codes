@@ -2,10 +2,6 @@
 # -*- encoding: utf-8 -*-
 """
 @File    : app.py
-@Time    : 2019/12/17 11:18
-@Author  : Yin Zheng
-@Email_private   : yinzheng1993@126.com
-@Email_company   : yinzheng@mskj.com
 @Software: PyCharm
 """
 from flask import Flask, request, redirect, url_for, render_template,flash, jsonify
